@@ -1,0 +1,45 @@
+package dev.jkcarino.adobo.patches.ninegag.ad
+
+internal const val AD_HOSTS = """
+    admob-gmats.uc.r.appspot.com
+    adsmoloco.com
+    advertising.a2z.com
+    amazon-adsystem.com
+    api.rlcdn.com
+    app-measurement.com
+    cdn.confiant-integrations.net
+    chartboost.com
+    doubleclick.net
+    fh.under9.co
+    firebase-settings.crashlytics.com
+    fundingchoicesmessages.google.com
+    fyber.com
+    google-analytics.com
+    googleadservices.com
+    googlesyndication.com
+    googletagservices.com
+    inmobi.com
+    inmobicdn.net
+    inner-active.mobi
+    liveramp.com
+    mediation.goog
+    mixpanel.com
+    mobileads.google.com
+    moloco.com
+    mxpl.9gag.com
+    pbs-onboarding-eu.ay.delivery
+    pbs-onboarding-us.ay.delivery
+    protected-by.clarium.io
+    pubnative.net
+    rlog.9gag.com
+    s1.2mdn.net
+    smaato.com
+    smaato.net
+    spadsync.com
+    tk0x1.com
+    uidapi.com
+    verve.com
+    vervegroupinc.net
+    vrvm.com
+    vungle.com
+"""
