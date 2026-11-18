@@ -1,0 +1,15 @@
+[versions]
+agp = "9.5.1"
+gson = "2.15.0"
+hidden-api-bypass = "6.1"
+morphe-patches-library = "2.2.0"
+morphe-patcher = "2.4.0"
+smali = "4220ae75f7"
+
+[libraries]
+gson = { module = "com.google.code.gson:gson", version.ref = "gson" }
+lsposed-hiddenApiBypass = { module = "org.lsposed.hiddenapibypass:hiddenapibypass", version.ref = "hidden-api-bypass" }
+morphe-patches-library = { module = "app.morphe:morphe-patches-library", version.ref = "morphe-patches-library" }
+
+[plugins]
+android-library = { id = "com.android.library", version.ref = "agp" }

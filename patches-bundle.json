@@ -1,0 +1,8 @@
+{
+  "created_at": "2026-11-18T16:25:42",
+  "description": "## [2.0.0-dev.6](https://github.com/jkennethcarino/adobo/compare/v2.0.0-dev.5...v2.0.0-dev.6) (2026-11-18)\n\n### Features\n\n* **Gboard:** Add `Hide incognito icon` patch ([e38616a](https://github.com/jkennethcarino/adobo/commit/e38616acae39c35406cd5fda33567b1131d0f708))",
+  "download_url": "https://github.com/jkennethcarino/adobo/releases/download/v2.0.0-dev.6/patches-2.0.0-dev.6.mpp",
+  "signature_download_url": "",
+  "version": "2.0.0-dev.6",
+  "public_key": "mIoxsHlobyL7P6VWwBAUUSXBJ5fyqMe9iqM1f3+LlF0="
+}
